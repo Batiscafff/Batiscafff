@@ -1,4 +1,4 @@
-<img src="static\ergo.gif">
+<img src="static\ergo.gif" width="100%">
 
 ```
 devops_engineer:
